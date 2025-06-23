@@ -1,16 +1,31 @@
-# chat_bot
+# 🤖 Gemini ChatBot (Flutter)
 
-A new Flutter project.
+A modern AI chatbot app built with **Flutter** and integrated with **Google's Gemini 1.5 Flash API**. This app delivers concise, intelligent responses using Google's Generative AI and offers a sleek, mobile-friendly UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 💬 Real-time chat interface with smooth UI
+- 🧠 Powered by Gemini 1.5 Flash (Generative AI)
+- 👤 User and bot avatars
+- 🗂️ Chat history using `localStorage`
+- 💡 System prompt for concise, teacher-like replies
+- 🎯 Responsive design for Android/iOS/Web
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+
+> *(Optional: Add screenshots here)*  
+> ![Chat screen](screenshots/chat_ui.png)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/faizan-03/ChatBot_Flutter.git
+cd ChatBot_Flutter
